@@ -15,7 +15,7 @@ Now that it is installed in your Application folder, we want to link to the run 
 ln -s /Applications/MIT\:GNU\ Scheme\ 10.1.9.app/Contents/Resources/mit-scheme /usr/local/bin/scheme
 ```
 
-Add this to your path
+Add this to your ```~/.bash_profile```
 ```
 export MITSCHEME_LIBRARY_PATH="/Applications/MIT\:GNU Scheme 10.1.9.app/Contents/Resources"
 export PATH=$PATH:$MITSCHEME_LIBRARY_PATH
