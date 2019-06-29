@@ -54,6 +54,11 @@ scheme --load hello
 
 You have to press CTRL-Z to exit scheme
 
+## See Also
+
+* [Common Lisp Notes](https://github.com/geocolumbus/clisp-notes)
+* [Clojure Notes](https://github.com/geocolumbus/clojure-notes)
+
 ## Reference
 
 * [MIT Scheme Page](https://www.gnu.org/software/mit-scheme/)
