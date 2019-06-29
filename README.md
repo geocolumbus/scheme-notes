@@ -52,6 +52,8 @@ cd scheme-notes
 scheme --load hello
 ```
 
+You have to press CTRL-Z to exit scheme
+
 ## Reference
 
 * [MIT Scheme Page](https://www.gnu.org/software/mit-scheme/)
